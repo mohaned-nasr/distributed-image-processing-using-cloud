@@ -4,7 +4,6 @@ Introduction
 This project is an image processing system using AWS S3 and SQS for scalable and fault-tolerant image processing. It includes a GUI for uploading images and selecting processing operations.
 
 Project Structure
-Copy code
 .
 ├── master.py
 ├── worker.py
@@ -20,7 +19,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/image-processing-system.git
+git clone [https://github.com/yourusername/image-processing-system.git](https://github.com/mohaned-nasr/distributed-image-processing-using-cloud.git)
 cd image-processing-system
 Install Dependencies
 
@@ -44,6 +43,7 @@ Upload Images
 Click "Upload Image" or "Upload Multiple Images".
 Select the processing operation.
 Processed images will be displayed in the GUI.
+google drive :
 
 System Architecture
 master.py: GUI for uploading images and selecting operations.
