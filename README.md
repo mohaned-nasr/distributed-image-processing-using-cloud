@@ -7,7 +7,6 @@ Project Structure
 .
 ├── master.py
 ├── worker.py
-├── requirements.txt
 ├── README.md
 Installation
 Prerequisites
@@ -43,7 +42,6 @@ Upload Images
 Click "Upload Image" or "Upload Multiple Images".
 Select the processing operation.
 Processed images will be displayed in the GUI.
-google drive :
 
 System Architecture
 master.py: GUI for uploading images and selecting operations.
