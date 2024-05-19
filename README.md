@@ -18,7 +18,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone [https://github.com/yourusername/image-processing-system.git](https://github.com/mohaned-nasr/distributed-image-processing-using-cloud.git)
+git clone [https://github.com/mohaned-nasr/distributed-image-processing-using-cloud.git]
 cd image-processing-system
 Install Dependencies
 
